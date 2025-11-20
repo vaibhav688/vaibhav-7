@@ -1,8 +1,8 @@
 # 🚬 Tobacco Mortality Analysis & Forecast Using Machine Learning
 
 ### 📌 Internship Project – Unified Mentor
-**Author:** _Your Name_  
-**Duration:** _Add your duration_  
+**Author:** VAIBHAV VAIDYANATHAN
+**Duration:** 3MONTHS
 **Domain:** Data Science / Machine Learning  
 
 ---
