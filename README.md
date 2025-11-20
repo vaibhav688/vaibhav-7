@@ -97,11 +97,5 @@ This project successfully demonstrates a complete workflow of data preprocessing
 ---
 
 ## 📬 Contact
-**Name:** _Your Name_  
-**Email:** _your email id_  
-**LinkedIn:** _your profile_  
-
----
-
-
-## 📌 Project Structure
+**Name:** **Vaibhav vaidyanathan**
+**Email:** **vaibhavvaidyanathan@gmail.com**
